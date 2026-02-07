@@ -25,5 +25,7 @@ This project was built as a learning exercise to explore:
 - Clone the repository
 - Open the project in Visual Studio / VS Code
 - Build and run using .NET 8
+
 OR
+
 - Download the zip file, and run the `clockit.exe`
