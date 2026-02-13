@@ -14,7 +14,8 @@ A simple lightweight, borderless Windows desktop clock widget built using .NET 8
 > WPF (Windows Presentation Foundation)
 > C#
 
-🎯 Purpose
+🎯 Purpose:
+
 This project was built as a learning exercise to explore:
 > WPF UI design and layout
 > Window lifecycle management
